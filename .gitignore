@@ -1,0 +1,23 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Personal chatbot conversations
+chat_history.txt
+
+# Environment variables and secrets
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+*.egg-info/
+
